@@ -28,4 +28,4 @@ O arquivo `Vagrantfile` configura as máquinas virtuais e define:
 1. Clone este repositório:
    ```bash
    git clone https://github.com/taciosouzaoliveira/seurepositorio.git
-   cd seurepositorio
+   
